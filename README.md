@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Conner 👋  
 
-<!--
-**TRIF3X/TRIF3X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Cybersecurity Student
+- 🛡️ Learning via TryHackMe & NDG Linux 1/2
+- 💻 Interests: SOC Operations, Cloud Security, and Security Engineering  
 
-Here are some ideas to get you started:
+## 🔗 Profiles
+- [TryHackMe - TRIF3X](https://tryhackme.com/p/TRIF3X) 
+<img src="https://tryhackme-badges.s3.amazonaws.com/TRIF3X.png" alt="TryHackMe Badge" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠️ Tech Stack
+- Javascript | Python | Linux | Windows | Active Directory | Powershell
+
+# Tools used throughout my studies:
+- Snort | Zeek | Network Miner | Brim | Wireshark
+- John the Ripper | Metasploit | Hydra | SQLMap | Gobuster | Burp Suite | Nmap | Tcpdump
+
+
+## 🎯 Current Goals
+- ✅ CompTIA Security+ (in progress)  
+- ✅ TryHackMe SOC Level 1 path (in progress)
+- ✅ NDG Linux 1/2 (in progress: LPIC-1)
+- 🔄 Build homelabs for detection & response
+
+## 🎯 Future Goals
+- TryHackMe Security Engineer Path
+- SOC level 2 path
+- CCSP
+
+## ✅ Completed Goals
+- NDG Linux Unhatched
+- THM pre-security
+- THM Cyber Security 101
