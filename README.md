@@ -1,5 +1,5 @@
 # Hi there, I'm Conner 👋  
-
+Updated: 8/21/2025
 ## 🚀 About Me
 - 🎓 Cybersecurity Student
 - 🛡️ Learning via TryHackMe & NDG Linux 1/2
@@ -28,6 +28,7 @@
 ## 🎯 Future Goals
 - TryHackMe Security Engineer Path
 - SOC level 2 path
+- CompTIA Network+
 - CCSP
 
 ## ✅ Completed Goals
