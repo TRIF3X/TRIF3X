@@ -14,7 +14,7 @@ Updated: 8/21/2025
 ## 🛠️ Tech Stack
 - Javascript | Python | Linux | Windows | Active Directory | Powershell
 
-# Tools used throughout my studies:
+## Tools used throughout my studies:
 - Snort | Zeek | Network Miner | Brim | Wireshark
 - John the Ripper | Metasploit | Hydra | SQLMap | Gobuster | Burp Suite | Nmap | Tcpdump
 
