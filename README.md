@@ -11,11 +11,11 @@ Updated: 8/21/2025
 
 
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Tech Stack
 - Javascript | Python | Linux | Windows | Active Directory | Powershell
 
-## Tools used throughout my studies:
-- Snort | Zeek | Network Miner | Brim | Wireshark
+## 🛠️ Tools used throughout my studies:
+- Snort | Zeek | Network Miner | Brim | Wireshark | TShark
 - John the Ripper | Metasploit | Hydra | SQLMap | Gobuster | Burp Suite | Nmap | Tcpdump
 
 
@@ -30,6 +30,7 @@ Updated: 8/21/2025
 - SOC level 2 path
 - CompTIA Network+
 - CCSP
+- CySA+
 
 ## ✅ Completed Goals
 - NDG Linux Unhatched
