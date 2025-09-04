@@ -11,7 +11,7 @@ Updated: 9/4/2025
 <img src="https://tryhackme-badges.s3.amazonaws.com/TRIF3X.png" alt="TryHackMe Badge" />
 
 ## ✨ What I'm currently studying
-- [THM - TShark](https://tryhackme.com/room/tsharkcliwiresharkfeatures)
+- [THM - Endpoint Security Monitoring]([https://tryhackme.com/room/tsharkcliwiresharkfeatures](https://tryhackme.com/room/introtoendpointsecurity))
 
 ## 🧑‍💻 Tech Stack
 - Javascript | Python | Linux | Windows | Active Directory | Powershell
