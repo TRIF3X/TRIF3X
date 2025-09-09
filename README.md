@@ -1,5 +1,5 @@
 # Hi there, I'm Conner 👋  
-Updated: 9/4/2025
+Updated: 9/9/2025
 ## 🚀 About Me
 - 🎓 Cybersecurity Student
 - 🛡️ Learning via TryHackMe & NDG Linux 1/2
