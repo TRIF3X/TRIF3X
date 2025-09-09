@@ -12,7 +12,7 @@ Updated: 9/4/2025
 
 
 ## ✨ What I'm currently studying
-- [THM - Endpoint Security Monitoring]
+- THM - Endpoint Security Monitoring
 
 ## 🧑‍💻 Tech Stack
 - Javascript | Python | Linux | Windows | Active Directory | Powershell
