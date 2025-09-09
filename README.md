@@ -8,22 +8,23 @@ Updated: 9/4/2025
 ## 🔗 Profiles
 - [LinkedIn - Conner Hoessly](https://www.linkedin.com/in/conner-hoessly/)
 - [TryHackMe - TRIF3X](https://tryhackme.com/p/TRIF3X) 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TRIF3X.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/TRIF3X.png" alt="Your Image Badge" />
+
 
 ## ✨ What I'm currently studying
-- [THM - Endpoint Security Monitoring]([https://tryhackme.com/room/tsharkcliwiresharkfeatures](https://tryhackme.com/room/introtoendpointsecurity))
+- [THM - Endpoint Security Monitoring]
 
 ## 🧑‍💻 Tech Stack
 - Javascript | Python | Linux | Windows | Active Directory | Powershell
 
 ## 🛠️ Tools used throughout my studies:
-- Snort | Zeek | Network Miner | Brim | Wireshark | TShark
+- Snort | Zeek | Network Miner | Brim | Wireshark | TShark | Sysinternals(Streams, TCPView, Autoruns, Procexp, ProcMon, Sysmon) | Windows Event Logs
 - John the Ripper | Metasploit | Hydra | SQLMap | Gobuster | Burp Suite | Nmap | Tcpdump
 
 
 ## 🎯 Current Goals
 - ✅ CompTIA Security+ (in progress)  
-- ✅ TryHackMe SOC Level 1 path (in progress)
+- ✅ TryHackMe SOC Level 1 path (in progress - 52%)
 - ✅ NDG Linux 1/2 (in progress: LPIC-1)
 - 🔄 Build homelabs for detection & response
 
