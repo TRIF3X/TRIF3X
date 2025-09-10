@@ -18,7 +18,7 @@ Updated: 9/10/2025
 - Javascript | Python | Linux | Windows | Active Directory | Powershell
 
 ## 🛠️ Tools used throughout my studies:
-- Snort | Zeek | Network Miner | Brim | Wireshark | TShark | Sysinternals(Streams, TCPView, Autoruns, Procexp, ProcMon, Sysmon) | Windows Event Logs | Osquery
+- Snort | Zeek | Network Miner | Brim | Wireshark | TShark | Sysinternals(Streams, TCPView, Autoruns, Procexp, ProcMon, Sysmon) | Windows Event Logs | Osquery | Wazuh
 - John the Ripper | Metasploit | Hydra | SQLMap | Gobuster | Burp Suite | Nmap | Tcpdump
 
 
